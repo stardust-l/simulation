@@ -13,6 +13,11 @@
 - 沉积过程中加入原子扩散（可以考虑衬底温度带来的影响），再发射
 - 后面有必要的话改成c++，以提高计算效率
 
+## 结果
+参数：1e8个粒子，格点1024*1024，最后平均高度90个原子，方差26个原子，需要加入热扩散等机制减小粗糙度
+![image](https://user-images.githubusercontent.com/56717657/190900739-a6893682-d7dc-469f-baae-522e62403e1e.png)
+
+
 ## 参考文献
 - Phys. Rev. B 62, 2118 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.62.2118
 - Phys. Rev. B 64, 085323 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.64.085323
