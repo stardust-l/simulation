@@ -12,3 +12,7 @@
 - 沉积时原子速度的角分布改成更符合实际的模拟结果（可以考虑生长气压的影响）
 - 沉积过程中加入原子扩散（可以考虑衬底温度带来的影响），再发射
 - 后面有必要的话改成c++，以提高计算效率
+
+## 参考文献
+- Phys. Rev. B 62, 2118 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.62.2118
+- Phys. Rev. B 64, 085323 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.64.085323
