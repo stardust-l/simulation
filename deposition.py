@@ -4,7 +4,7 @@ import numpy as np
 import scipy,random,os
 
 #模拟1024*1024网格，周期性边界条件
-#1.随机生成给定概率分布的速度dP/dOmega=cos(theta)/pi,横向位置随机分布，纵向位置最大高度加1
+#1.随机生成给定概率分布的速度方向dP/dOmega=cos(theta)/(4*pi*sin(theta)),横向位置随机分布，纵向位置最大高度加1
 #2.当溅射原子碰到薄膜表面时，溅射原子沉积，此点高度加1
 
 #将默认目录改为当前文件夹
