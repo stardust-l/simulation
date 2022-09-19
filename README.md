@@ -21,3 +21,12 @@
 ## 参考文献
 - Phys. Rev. B 62, 2118 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.62.2118
 - Phys. Rev. B 64, 085323 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.64.085323
+
+# 宏自旋模拟
+将单个磁性层的磁矩的状态都认为是一个整体，计算出各磁性层在外磁场下能量最低时候的状态
+- 考虑了磁矩面内面外两个方向的运动
+- 给出了各磁场下各磁性层的磁矩方向
+## 结果
+总体形状和实验结果稳合，不过矫顽力远小于实验结果，可能是磁畴的影响，需要考虑微磁学模拟
+![image](https://user-images.githubusercontent.com/56717657/191040303-bd615afa-d7cf-4494-9fe6-e172373b1b1c.png)
+
